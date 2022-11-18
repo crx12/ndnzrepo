@@ -4,19 +4,19 @@ Saya merupakan seorang mahasiswa S1 Program Studi Akuntansi dan S1 Program Studi
 
 Saya memiliki motto hidup        : "Jadikanlah Pengalaman Sebagai Landasan Untuk Berkembang lebih baik lagi".
 Saya memiliki beberapa kemampuan diantaranya adalah :
-Bahasa HTML 	      : 98%
+Bahasa HTML 	              : 98%
 PHP Native		      : 75%
 PHP Laravel		      : 94%
-JAVA			          : 80%
-Adobe After Effect	: 65%
-Adobe Photoshop	    : 79%
-Adobe Premiere	    : 98%
+JAVA			      : 80%
+Adobe After Effect	      : 65%
+Adobe Photoshop	               : 79%
+Adobe Premiere	               : 98%
 
 Riwayat Hidup dan Organisasi
 Aktivitas Organisasi dan Kepanitiaan
 BADAN EKSEKUTIF MAHASISWA UNIKA SOEGIJAPRANATA
 2019-2020
-Sebagai Humas
+Sebagai Staff Magang Departemen Hubungan Masyarakat
 
 ORANG MUDA KATOLIK PAROKI ST. PAULUS SENDANGGUWO
 2020-2023
@@ -45,6 +45,15 @@ Sebagai Pilot Drone
 DRONE MULTIROTOR DIY
 2017-2019
 Sebagai Pilot Drone
+
+Senat Mahasiswa Universitas
+Universitas Katolik Soegijapranata
+2021-2022
+Sebagai Komisi Organisasi dan Kaderisasi
+
+Panitia Soegijapranata Culture and Arts
+2022
+Sebagai Badan Pengawas Harian Senat Mahasiswa Universitas
 
 Pendidikan
 SDK SANG TIMUR SEMARANG
